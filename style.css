@@ -1,20 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-:root {
-    --bs-primary-rgb: #2874f0 !important;
-}
+
 
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #e0eaf3;
     font-size: 14px;
 }
-
-
-.bg-primary {
-    background-color: var(--bs-primary-rgb) !important;
-}
-
 
 
 .navbar {
